@@ -23,5 +23,3 @@ except ValueError:
     print("Erro: Você não digitou um número válido para a idade.")
 
 
-print("Fim do programa.")
-print("Fim do programa.")
