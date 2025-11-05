@@ -21,3 +21,6 @@ try:
 
 except ValueError:
     print("Erro: Você não digitou um número válido para a idade.")
+
+
+print("Fim do programa.")
